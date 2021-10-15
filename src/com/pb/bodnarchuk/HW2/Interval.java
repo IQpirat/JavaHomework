@@ -10,7 +10,6 @@ int a;
 a=peremenna.nextInt();
 if (a>=0&&a<=14){
     System.out.println("діапазон 0-14");
-
 }else if (a<=35) {
     System.out.println("діапазон 15-35");
 }else if (a<=50){
